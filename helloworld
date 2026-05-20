@@ -1,3 +1,8 @@
 #Hello world en R
 
 print("Hello World")
+
+# 1:10 en R
+print (1:10)
+
+modifico más
